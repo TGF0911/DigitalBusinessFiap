@@ -48,7 +48,9 @@ ____________________________
   <a href="https://github.com/guilhermelouzavio">Guilherme Louzavio RM: 84053</a>
  <li>
   <a href="https://github.com/ibrunera">Bruno Teixeira RM: 81214</a>
-<ul/>
+  <li>
+  <a href="https://github.com/TGF0911">Thais Gennari RM: 83803</a>
+</ul>
 
   
   
